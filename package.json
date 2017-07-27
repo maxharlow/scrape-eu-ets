@@ -1,5 +1,5 @@
 {
-    "name": "scrape-eu-ets",
+    "name": "scrape-eu-ets-allocations",
     "private": true,
     "dependencies": {
         "highland": "2.10.x",
